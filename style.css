@@ -1,0 +1,80 @@
+h1, h2 {
+    font-family: Kumar One Outline;
+    text-align: center;
+    color: rgb(212, 212, 13);
+}
+
+p {
+    font-family: Chela One;
+    text-align: center;
+    color: rgb(212, 212, 13);
+}
+
+#paragrafo {
+    margin-bottom: 30px;
+}
+
+#paragra {
+    margin-bottom: 30px;
+}
+
+#filme {
+    margin-bottom: 30px;
+}
+
+#sorrir {
+    margin-bottom: 30px;
+}
+
+.titulo {
+    color: rgb(212, 212, 13);
+}
+
+body {
+    background-color: rgb(212, 212, 13);
+    
+}
+
+div {
+    background-color: rgb(150, 14, 14);
+    padding: 30px;
+    width: 600px;
+    margin: 30px auto;
+    border-radius: 100px;
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 800;
+    background-color: rgb(212, 212, 13);
+    color: rgb(150, 14, 14);
+    padding: 15px;
+    border-radius: 50px;
+    
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    display: inline-block;
+    font-size: 40px;
+    margin: 10px 12px;
+    color: rgb(255, 255, 169);
+
+}
+
+ul li:hover {
+    color: yellow;
+}
