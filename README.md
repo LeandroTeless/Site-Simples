@@ -1,5 +1,5 @@
 # Site-Simples
-Projetinho de um site muito simples mais com umas ideias legais. Na parte das redes sociais eu não consegui colocar para quando você clicar e ir para outra pagina. Alguém interessado em ajudar manda mensagem!
+Projetinho de um site muito simples mais com umas ideias legais. Na parte das redes sociais eu não consegui colocar para quando você clicar e ir para outra pagina. Alguém interessado em ajudar manda mensagem.
 
 ![1](https://user-images.githubusercontent.com/97403948/191578882-83e3238c-7643-4905-88f9-5ba15464acce.jpg)
 ![2](https://user-images.githubusercontent.com/97403948/191578885-3c9138c0-1922-40b6-abff-aa918a3d8abb.jpg)
